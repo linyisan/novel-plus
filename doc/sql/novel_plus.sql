@@ -379,7 +379,7 @@ CREATE TABLE `friend_link` (
 -- ----------------------------
 -- Records of friend_link
 -- ----------------------------
-INSERT INTO `friend_link` VALUES ('5', '小说精品屋', 'https://www.xinshumen.com', '11', '1', null, null, null, null);
+INSERT INTO `friend_link` VALUES ('5', '', 'https://www.xinshumen.com', '11', '1', null, null, null, null);
 
 -- ----------------------------
 -- Table structure for news
@@ -402,8 +402,8 @@ CREATE TABLE `news` (
 -- ----------------------------
 -- Records of news
 -- ----------------------------
-INSERT INTO `news` VALUES ('1', '1', '招募', '小说精品屋', '2019小说精品屋作者福利&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;高价保底买断征稿', '2019小说精品屋作者福利&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;高价保底买断征稿', '2020-04-27 15:42:21', null, '2020-04-27 15:42:26', null);
-INSERT INTO `news` VALUES ('2', '3', '公告', '小说精品屋', '编辑联系方式及征稿类型&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;版权商务联系方式', '编辑联系方式及征稿类型&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;版权商务联系方式', '2020-04-28 15:44:07', null, '2020-04-28 15:44:12', null);
+INSERT INTO `news` VALUES ('1', '1', '招募', '', '2019作者福利&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;高价保底买断征稿', '2019作者福利&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;高价保底买断征稿', '2020-04-27 15:42:21', null, '2020-04-27 15:42:26', null);
+INSERT INTO `news` VALUES ('2', '3', '公告', '', '编辑联系方式及征稿类型&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;版权商务联系方式', '编辑联系方式及征稿类型&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;版权商务联系方式', '2020-04-28 15:44:07', null, '2020-04-28 15:44:12', null);
 
 -- ----------------------------
 -- Table structure for news_category

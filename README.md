@@ -1,6 +1,6 @@
 [![index]( https://s1.ax1x.com/2020/07/03/NOSA5q.jpg )]( https://cloud.tencent.com/act/cps/redirect?redirect=1052&cps_key=736e609d66e0ac4e57813316cec6fd0b&from=console )
 
-# 小说精品屋-plus
+# -plus
 
 [![Github stars](https://img.shields.io/github/stars/201206030/novel-plus?logo=github)](https://github.com/201206030/novel-plus)
 [![Github forks](https://img.shields.io/github/forks/201206030/novel-plus?logo=github)](https://github.com/201206030/novel-plus)
@@ -11,9 +11,9 @@
 
 https://xiongxyang.gitee.io
 
-#### 新项目：小说精品屋-微服务版
+#### 新项目：-微服务版
 
-基于小说精品屋-plus构建的Spring Cloud 微服务小说门户平台。
+基于-plus构建的Spring Cloud 微服务小说门户平台。
 
 GitHub仓库地址： https://github.com/201206030/novel-cloud
 
@@ -26,9 +26,9 @@ Gitee仓库地址： https://gitee.com/novel_dev_team/novel-cloud
 
 #### 项目介绍
 
-小说精品屋-plus是在[小说精品屋](https://github.com/201206030/fiction_house)的基础上，去除了漫画和弹幕模块，专注于小说，是一个多端（PC、WAP）阅读、功能完善的原创文学CMS系统，由前台门户系统、作家后台管理系统、平台后台管理系统、爬虫管理系统等多个子系统构成，支持会员充值、订阅模式、新闻发布和实时统计报表等功能。
+-plus是在[](https://github.com/201206030/fiction_house)的基础上，去除了漫画和弹幕模块，专注于小说，是一个多端（PC、WAP）阅读、功能完善的原创文学CMS系统，由前台门户系统、作家后台管理系统、平台后台管理系统、爬虫管理系统等多个子系统构成，支持会员充值、订阅模式、新闻发布和实时统计报表等功能。
 
-小说精品屋-plus重新进行了数据库设计、代码重构和功能增强，提升了程序整体的可读性和性能，增加了很多商用特性。主要升级如下：
+-plus重新进行了数据库设计、代码重构和功能增强，提升了程序整体的可读性和性能，增加了很多商用特性。主要升级如下：
 
 - [x] 数据库重新设计，结构调整。
 - [x] 服务端代码重构，MyBatis3升级为MyBatis3DynamicSql。
@@ -86,7 +86,7 @@ novel-plus -- 父工程
 #### 开发工具
 感谢Jetbrains公司提供的免费License。
 
-[![index]( https://s3.ax1x.com/2021/01/14/sdHsJg.png )]( https://www.jetbrains.com/?from=小说精品屋)
+[![index]( https://s3.ax1x.com/2021/01/14/sdHsJg.png )]( https://www.jetbrains.com/?from=)
 
 
 #### 接口文档
@@ -236,7 +236,7 @@ novel-plus -- 父工程
   #网站配置
   website:
     #网站名
-    name: 小说精品屋
+    name: 
     #域名
     domain: xiongxyang.gitee.io
     #SEO关键词
